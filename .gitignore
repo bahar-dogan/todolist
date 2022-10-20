@@ -1,0 +1,33 @@
+# IDE-VSCODE
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+
+# Local History for Visual Studio Code
+.history/
+
+# IMG
+*.jpg
+*.png
+
+# log
+*.log
+
+password.txt
+
+
+
+
+# log
+*.log
+
+password.txt
+
+*.js
+*.swp
+
+# API anahtarları, kimlik bilgileri veya hassas bilgiler içeren dosyalar(.env)
+*.env
